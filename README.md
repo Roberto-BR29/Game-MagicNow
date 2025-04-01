@@ -42,5 +42,5 @@ Aproveite o jogo e divirta-se! 🚀
 
 Print do banco de dados funcionando:
 
-![Captura de tela banco de dados](https://github.com/user-attachments/assets/12b3486c-df91-4d0f-bdb1-0818e4904417)
+![Captura de tela banco de dados](https://github.com/user-attachments/assets/ab02edca-aad4-4998-98e4-57fee41fb56e)
 
