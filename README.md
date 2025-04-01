@@ -29,7 +29,9 @@ Magic Now é um jogo simples desenvolvido como parte de um estudo universitário
 
 -Arte: Sprites feitas manualmente e assets gratuitos
 
+## Arquivos do Jogo
 
+Todos os arquivos do jogo, incluindo as sprites, estão disponíveis para download. Se você abrir os arquivos no Construct 3, poderá ver como o jogo foi criado e modificar conforme desejar.
 
 ## Contribuição
 
