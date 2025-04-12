@@ -44,3 +44,11 @@ Print do banco de dados funcionando:
 
 ![Captura de tela banco de dados](https://github.com/user-attachments/assets/ab02edca-aad4-4998-98e4-57fee41fb56e)
 
+![Captura de tela game in](https://github.com/user-attachments/assets/0e964fc0-9aec-4d59-999c-86a33930b77b)
+
+![Captura de tela 2025-04-01 163041](https://github.com/user-attachments/assets/a999789f-19d9-45ad-a691-1bd4a86e4b63)
+
+![Captura de tela 2025-04-01 163020](https://github.com/user-attachments/assets/3c7d615f-af0c-4924-a438-ec30dd404ec4)
+
+
+
