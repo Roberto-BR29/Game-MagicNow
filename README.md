@@ -4,7 +4,7 @@ Magic Now é um jogo simples desenvolvido como parte de um estudo universitário
 
 # Como Jogar
 
-1. Acesse a página do jogo no **itch.io** https://robs-29.itch.io/magic-now
+1. Acesse a página do jogo no **construct** https://www.construct.net/en/free-online-games/magic-75568/play
 2. Em uma versão web, clique em **"Jogar Agora"**.
    
 -Utilize as teclas de seta ou WASD para movimentar o personagem.
